@@ -108,7 +108,7 @@
       "SubtitleTrackSelectionBehavior": "all",
       "VideoAvgBitrate": 0,
       "VideoColorMatrixCode": 0,
-      "VideoEncoder": "nvenc_h264",
+      "VideoEncoder": "nvenc_h265",
       "VideoFramerate": "30",
       "VideoFramerateMode": "pfr",
       "VideoGrayScale": false,
