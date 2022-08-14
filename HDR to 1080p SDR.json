@@ -13,7 +13,7 @@
       ],
       "AudioList": [
         {
-          "AudioBitrate": 384,
+          "AudioBitrate": 768,
           "AudioCompressionLevel": 0,
           "AudioEncoder": "copy",
           "AudioMixdown": "5point1",
