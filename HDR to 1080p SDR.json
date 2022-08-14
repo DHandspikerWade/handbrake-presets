@@ -5,7 +5,8 @@
       "AudioCopyMask": [
         "copy:aac",
         "copy:ac3",
-        "copy:truehd"
+        "copy:truehd",
+        "copy:eac3"
       ],
       "AudioEncoderFallback": "av_aac",
       "AudioLanguageList": [
