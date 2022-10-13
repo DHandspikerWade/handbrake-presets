@@ -5,6 +5,8 @@
       "AudioCopyMask": [
         "copy:aac",
         "copy:ac3",
+        "copy:dtshd",
+        "copy:dts",
         "copy:truehd",
         "copy:eac3"
       ],
