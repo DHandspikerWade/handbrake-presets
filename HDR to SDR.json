@@ -53,7 +53,8 @@
             "PictureColorspacePreset": "bt709",
             "PictureCombDetectCustom": "",
             "PictureCombDetectPreset": "default",
-            "PictureDARWidth": 3838,
+            "PictureCropMode": 1,
+            "PictureDARWidth": 1920,
             "PictureDeblockCustom": "strength=strong:thresh=20:blocksize=8",
             "PictureDeblockPreset": "off",
             "PictureDeblockTune": "medium",
@@ -72,7 +73,6 @@
             "PictureItuPAR": false,
             "PictureKeepRatio": true,
             "PictureLeftCrop": 0,
-            "PictureLooseCrop": false,
             "PictureModulus": 2,
             "PicturePAR": "auto",
             "PicturePARHeight": 1,
@@ -83,7 +83,7 @@
             "PicturePadMode": "none",
             "PicturePadRight": 0,
             "PicturePadTop": 0,
-            "PictureRightCrop": 2,
+            "PictureRightCrop": 0,
             "PictureRotate": "angle=0:hflip=0",
             "PictureSharpenCustom": "",
             "PictureSharpenFilter": "off",
@@ -114,6 +114,7 @@
             "VideoFramerate": "auto",
             "VideoFramerateMode": "vfr",
             "VideoGrayScale": false,
+            "VideoHWDecode": 0,
             "VideoLevel": "auto",
             "VideoOptionExtra": "",
             "VideoPreset": "slow",
@@ -129,7 +130,7 @@
             "x264UseAdvancedOptions": false
         }
     ],
-    "VersionMajor": 47,
+    "VersionMajor": 50,
     "VersionMicro": 0,
     "VersionMinor": 0
 }
