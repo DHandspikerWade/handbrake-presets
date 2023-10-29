@@ -12,7 +12,9 @@
             ],
             "AudioEncoderFallback": "av_aac",
             "AudioLanguageList": [
-                "eng"
+                "eng",
+                "und",
+                "any"
             ],
             "AudioList": [
                 {
@@ -30,7 +32,7 @@
                 }
             ],
             "AudioSecondaryEncoderMode": true,
-            "AudioTrackSelectionBehavior": "all",
+            "AudioTrackSelectionBehavior": "first",
             "ChapterMarkers": true,
             "ChildrenArray": [],
             "Default": false,
@@ -51,7 +53,7 @@
             "PictureColorspacePreset": "off",
             "PictureCombDetectCustom": "",
             "PictureCombDetectPreset": "default",
-            "PictureCropMode": 0,
+            "PictureCropMode": 1,
             "PictureDARWidth": 1920,
             "PictureDeblockCustom": "strength=strong:thresh=20:blocksize=8",
             "PictureDeblockPreset": "off",
