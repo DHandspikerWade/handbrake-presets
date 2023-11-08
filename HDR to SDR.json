@@ -3,13 +3,7 @@
         {
             "AlignAVStart": false,
             "AudioCopyMask": [
-                "copy:aac",
-                "copy:ac3",
-                "copy:dts",
-                "copy:dtshd",
-                "copy:eac3",
-                "copy:flac",
-                "copy:truehd"
+                "copy:aac"
             ],
             "AudioEncoderFallback": "av_aac",
             "AudioLanguageList": [
@@ -17,17 +11,17 @@
                 "any"
             ],
             "AudioList": [
-                {
-                    "AudioBitrate": 768,
-                    "AudioCompressionLevel": 0.0,
+                 {
+                    "AudioBitrate": 256,
+                    "AudioCompressionLevel": -1.0,
                     "AudioDitherMethod": "auto",
-                    "AudioEncoder": "copy",
+                    "AudioEncoder": "opus",
                     "AudioMixdown": "5point1",
                     "AudioNormalizeMixLevel": false,
                     "AudioSamplerate": "auto",
                     "AudioTrackDRCSlider": 0.0,
                     "AudioTrackGainSlider": 0.0,
-                    "AudioTrackQuality": 3.0,
+                    "AudioTrackQuality": 5.0,
                     "AudioTrackQualityEnable": false
                 }
             ],
