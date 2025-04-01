@@ -5,7 +5,6 @@
             "AudioCopyMask": [],
             "AudioEncoderFallback": "av_aac",
             "AudioLanguageList": [
-                "eng",
                 "any"
             ],
             "AudioList": [
