@@ -9,7 +9,10 @@
             "AudioEncoderFallback": "av_aac",
             "AudioLanguageList": [
                 "eng",
-                "any"
+                "fra",
+                "spa",
+                "jpn"
+
             ],
             "AudioList": [
                 {
@@ -27,7 +30,7 @@
                 }
             ],
             "AudioSecondaryEncoderMode": true,
-            "AudioTrackNamePassthru": true,
+            "AudioTrackNamePassthru": false,
             "AudioTrackSelectionBehavior": "all",
             "ChapterMarkers": true,
             "ChildrenArray": [],
