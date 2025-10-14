@@ -10,9 +10,8 @@
             "AudioLanguageList": [
                 "eng",
                 "fra",
-                "spa",
-                "jpn"
-
+                "jpn",
+                "spa"
             ],
             "AudioList": [
                 {
@@ -122,7 +121,7 @@
             "VideoPasshtruHDRDynamicMetadata": "all",
             "VideoPreset": "slow",
             "VideoProfile": "auto",
-            "VideoQualitySlider": 22.0,
+            "VideoQualitySlider": 26.0,
             "VideoQualityType": 2,
             "VideoScaler": "swscale",
             "VideoTune": "",
